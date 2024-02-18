@@ -4,20 +4,19 @@ This is a JavaScript program for parsing transaction data from a CSV file, calcu
 Installation
 Clone the repository to your local machine:
 
-
-git clone
+git clone https://github.com/0xZaddyy/Block
 
 Navigate to the project directory:
 
-
-cd 
+cd Block
 
 Usage
+
 Place your transaction data in a CSV file named mempool.csv in the project directory. 
+
 Run the program:
 
-
-node index.js
+node block.js
 
 The selected transaction IDs with maximum fees will be printed to the console.
 
